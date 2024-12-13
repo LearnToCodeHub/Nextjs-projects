@@ -6,14 +6,14 @@ This repository contains a curated list of tutorials and resources for building 
 
 ## Resources and Tutorials
 
-- [Full Stack Ecommerce Store With Admin Dashboard](https://www.youtube.com/watch?v=iqrgggs0Qk0&t=9632s&ab_channel=WebDevSimplified)
+- [Full Stack Ecommerce Store With Admin Dashboard](https://www.youtube.com/watch?v=iqrgggs0Qk0))
 - [Build and Deploy a Banking App](https://www.youtube.com/watch?v=PuOVqP_cjkE&ab_channel=JavaScriptMastery)
 - [Build a Real-Time Google Docs Clone](https://www.youtube.com/watch?v=gq2bbDmSokU&ab_channel=CodeWithAntonio)
 - [Admin Dashboard From Scratch](https://www.youtube.com/watch?v=hhudoSMM0yU&ab_channel=TraversyMedia)
 - [Car Showcase Platform](https://www.youtube.com/watch?v=pUNSHPyVryU&ab_channel=JavaScriptMastery)
 - [School Management Dashboard](https://www.youtube.com/watch?v=myYlGLFxZas&ab_channel=LamaDev)
 - [Build and Deploy a Full Stack Google Drive Clone](https://www.youtube.com/watch?v=lie0cr3wESQ&ab_channel=JavaScriptMastery)
-- [Build a Video Course Platform](https://www.youtube.com/watch?v=ObyPbXJip7w&t=743s&ab_channel=HamedBahram)
+- [Build a Video Course Platform](https://www.youtube.com/watch?v=ObyPbXJip7w&channel=HamedBahram)
 - [Next.js E-Commerce App](https://www.youtube.com/watch?v=I0BOUiFe9WY&ab_channel=LamaDev)
 - [Build and Deploy a Patient Management System](https://www.youtube.com/watch?v=lEflo_sc82g&ab_channel=JavaScriptMastery)
 - [Build and Deploy a Threads Clone](https://www.youtube.com/watch?v=O5cmLDVTgAs&ab_channel=JavaScriptMastery)
